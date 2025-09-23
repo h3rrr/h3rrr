@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - ✨ Bug Hunter focusing on AI infra and AI applications (current)
 - 💬 Daydreamer
+- 📧 Contact me : ccs7k7k@gmail.com
