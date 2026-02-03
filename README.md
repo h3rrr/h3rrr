@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✨ Bug Hunter focusing on AI infra and AI applications (current)
+- 🌱 I’m currently working on some ai4sec projects.
 - 💬 Daydreamer
 - 📧 Contact me : ccs7k7k@gmail.com
